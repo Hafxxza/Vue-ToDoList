@@ -1,0 +1,20 @@
+{
+	"toDoList": [
+		{
+			"id": 1,
+			"task": "Throw rubbish",
+			"completed": false,
+			"edit": false,
+			"beforeEditCache": "",
+			"timestamp": ""
+		},
+		{
+			"id": 2,
+			"task": "Cook lunch",
+			"completed": false,
+			"edit": false,
+			"beforeEditCache": "",
+			"timestamp": ""
+		}
+	]
+}
